@@ -38,3 +38,5 @@
 # ref. https://github.com/github/gitignore/blob/main/Rails.gitignore
 /.bundle
 /vendor/bundle
+
+public/uploads/
