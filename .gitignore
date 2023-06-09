@@ -33,3 +33,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Environment normalization:
+# ref. https://github.com/github/gitignore/blob/main/Rails.gitignore
+/.bundle
+/vendor/bundle
